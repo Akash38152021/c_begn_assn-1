@@ -1,0 +1,68 @@
+Q.1 Ans :  Computers use binary to store
+ data. Not only because it's a reliable
+ way of storing the data, but computers 
+ only understand 1s and 0s — binary. A 
+ computer's main memory consists of
+ transistors that switch between high
+ and low voltage levels — sometimes 5V,
+ sometimes 0.
+
+Q.2 
+AnsIDE-integrated development environment.
+
+Q.4 
+Ans. Creat a .c(source file) 
+     a) Preprocosser
+     # add header file code.
+     # remove white space.
+     # only slow down lines starting 
+       with hash. 
+     B) compiler 
+     # check syntax of code.
+     # convert .c file to machine code.
+
+     C) linker
+     # add library file code. 
+     # search main() function in code. 
+     # link code with .c file with the 
+       Help of main() function
+
+Q.5 a) latest version of c language is c17.
+    b) developer of c language is 
+       Dennis Ritchie.
+    C) defference between system and application software
+
+    System Software is the type of software that is the 
+    interface between application software and system. 
+    Low-level languages are used to write the system
+    software. System Software maintains the system 
+    resources and gives the path for application 
+    software to run. An important thing is that without 
+    system software, the system can not run. It is 
+    general-purpose software. 
+
+    Application Software is the type of software 
+    that runs as per user request. It runs on the 
+    platform which is provided by system software. 
+    High-level languages are used to write the
+    application software. It’s a specific purpose
+    software. The main difference between System 
+    Software
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      
+ 
